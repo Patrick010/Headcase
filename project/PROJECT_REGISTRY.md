@@ -60,11 +60,11 @@ This document serves as the master file for tracking all key documents for the H
 
 | Document | Location | Description |
 |---|---|---|
-| **Operator Manual** | [`../../manuals/OPERATOR_MANUAL.md`](../../manuals/OPERATOR_MANUAL.md) | Guidance for deploying, configuring, and maintaining the system. |
-| **System Integration Guide** | [`../../manuals/SYSTEM_INTEGRATION_GUIDE.md`](../../manuals/SYSTEM_INTEGRATION_GUIDE.md) | Guide for external developers on integrating with the solution. |
-| **Technical Developer Guide** | [`../../manuals/TECHNICAL_DEVELOPER_GUIDE.md`](../../manuals/TECHNICAL_DEVELOPER_GUIDE.md) | Guide for internal developers on setting up a local environment. |
-| **Developer CI/CD Guide**| [`../../manuals/CICD.md`](../../manuals/CICD.md) | A technical guide to the CI/CD pipeline and local setup. |
-| **User Manual** | [`../../manuals/USER_MANUAL.md`](../../manuals/USER_MANUAL.md) | A manual for end-users of the application. |
-| **Error Handling Guide** | [`../../manuals/ERROR_HANDLING_GUIDE.md`](../../manuals/ERROR_HANDLING_GUIDE.md) | A developer guide for error handling. |
-| **Logging Guide** | [`../../manuals/LOGGING_GUIDE.md`](../../manuals/LOGGING_GUIDE.md) | A developer guide for the logging framework. |
-| **License** | [`../../manuals/LICENSE`](../../manuals/LICENSE) | The project's software license. |
+| **Operator Manual** | [`../../docs/manuals/OPERATOR_MANUAL.md`](../../docs/manuals/OPERATOR_MANUAL.md) | Guidance for deploying, configuring, and maintaining the system. |
+| **System Integration Guide** | [`../../docs/manuals/SYSTEM_INTEGRATION_GUIDE.md`](../../docs/manuals/SYSTEM_INTEGRATION_GUIDE.md) | Guide for external developers on integrating with the solution. |
+| **Technical Developer Guide** | [`../../docs/manuals/TECHNICAL_DEVELOPER_GUIDE.md`](../../docs/manuals/TECHNICAL_DEVELOPER_GUIDE.md) | Guide for internal developers on setting up a local environment. |
+| **Developer CI/CD Guide**| [`../../docs/manuals/CICD.md`](../../docs/manuals/CICD.md) | A technical guide to the CI/CD pipeline and local setup. |
+| **User Manual** | [`../../docs/manuals/USER_MANUAL.md`](../../docs/manuals/USER_MANUAL.md) | A manual for end-users of the application. |
+| **Error Handling Guide** | [`../../docs/manuals/ERROR_HANDLING_GUIDE.md`](../../docs/manuals/ERROR_HANDLING_GUIDE.md) | A developer guide for error handling. |
+| **Logging Guide** | [`../../docs/manuals/LOGGING_GUIDE.md`](../../docs/manuals/LOGGING_GUIDE.md) | A developer guide for the logging framework. |
+| **License** | [`../../docs/manuals/LICENSE`](../../docs/manuals/LICENSE) | The project's software license. |
